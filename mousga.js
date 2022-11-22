@@ -1,5 +1,5 @@
 //윤하진의 학교 조작코드
-
+alert('윤하진의 학교 조작코드');
 var event = new KeyboardEvent('keydown', {
 key: 'g',
 ctrlKey: true
